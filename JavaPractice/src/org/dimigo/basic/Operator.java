@@ -31,7 +31,7 @@ public class Operator {
 		System.out.printf("점포 내 직원 수 : %d명\n",staff);
 		System.out.printf("점포 수 : %,d개\n\n",store);
 		System.out.printf("연간 인건비 : %,d원",year);
-
+//
 	}
 
 }
